@@ -9,7 +9,7 @@
 
 <body>
 <h1>新規入力フォーム<br></h1><!-HTMLでのコメントアウト->
-    <form action = "mission_5-1.php" method = "post" >
+    <form action = "mission_5-2.php" method = "post" >
     <input type = "text" value = "名前" name = "name" ><br>
     パスワード<br>
     <input type = "password" name = "n_password"><br>
